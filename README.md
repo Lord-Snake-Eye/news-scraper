@@ -13,4 +13,4 @@ pip/pip3 install -r requirements.txt
 3. To store emails in a file:
     - Create a emails.txt file
     - Enter in the emails separated with a newline
-4. To run the script: **python/python33 run.py** 
+4. To run the script: **python/python3 run.py** 
